@@ -1,0 +1,199 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+NG+Modern:wght@100..400&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=Dancing+Script:wght@400..700&family=Noto+Sans+Telugu:wght@100..900&family=Playwrite+ES+Deco:wght@100..400&family=Playwrite+MX:wght@100..400&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Margarine&family=Playwrite+NG+Modern:wght@100..400&display=swap');
+
+h1{
+    font-family: "Playwrite NG Modern", cursive;
+    font-size: 25px;
+    font-weight: 500;
+    text-align: center;
+    
+}
+h1::before {
+    content: "🔥";
+}
+
+h1::after {
+    content: "🌊";
+}
+#para4::after{
+    content: "🏇🏍️";
+
+}
+
+img {
+    display: inline-block;
+    margin: 10px;
+}
+
+.about {
+    display: inline-block;
+    width: 1000px;
+    height: 500px;
+    overflow: auto;
+    margin: 10px;
+
+}
+.plot {
+    display: inline-block;
+    width: 850px;
+    height: 410px;
+    margin: 10px;
+    text-align: justify;
+
+}
+a {
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+a:link {
+    background-color: rgb(33, 235, 33);
+    color: rgb(19, 35, 48);
+}
+a:hover {
+    background-color: rgb(129, 65, 35);
+    color: rgb(235, 180, 140);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+a:active {
+    background-color: rgb(24, 52, 42);
+    box-shadow: 10px 10px 10px rgb(247, 21, 21);
+}
+
+iframe {
+    width: 600px;
+    height: 405px;
+}
+#para1 {
+    font-family: cursive;
+  }
+  
+  #para2 {
+    font-family: Bradley Hand ITC;
+    font-style: normal;
+    font-weight: 400;
+  }
+  
+  
+  #para3 {
+    font-family: "Playwrite MX", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+  #para4 {
+    font-family: "Courier New", Courier, monospace;
+  }
+  #para5 {
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+      "Lucida Sans", Arial, sans-serif;
+    font-style: inherit;
+  }
+  #para6 {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-style: oblique;
+  }
+  #para7 {
+    font-family: cursive;
+  }
+  #para8 {
+    font-family: fantasy;
+    font-style: italic;
+  }
+  #para9 {
+    font-family: "Playwrite ES Deco", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+  #para10 {
+    font-family: Snap ITC;
+    font-weight: 300;
+  }
+  #para11 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-weight: 300;
+  }
+  dt {
+    font-size: 25px;
+    color: cadetblue;
+    font-family: "Margarine", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+dd {
+    font-size: 20px;
+    font-family: cursive;
+    color: #332308;
+}
+body{
+    font-size: 1rem;
+}
+#para12 {
+    font-family: Brush Script MT;
+    font-style: unset;
+    font-weight: 300;
+  }
+  #para13 {
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+    font-style: italic;
+    font-weight: 300;
+  }
+  #para14 {
+    font-family: French Script MT;
+    font-weight: 600;
+  }
+  #para15 {
+    font-family: Embassy BT;
+    font-weight: 600;
+  }
+  #para16 {
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+  }
+  #para17 {
+    font-family: Bookman, URW Bookman L, serif;
+    font-weight: 600;
+  }
+  #para18 {
+    font-family: OCR A Std, monospace;
+    font-weight: 600;
+  }
+  #para19 {
+    font-family: Brush Script MT, Brush Script Std, cursive	;
+    font-weight: 600;
+  }
+  #para20 {
+    font-family: Trattatello, fantasy;
+    font-weight: 600;
+  }
+  #para21 {
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    font-weight: 600;
+  }
+  #para22 {
+    font-family: Gill Sans, sans-serif;
+    font-weight: 600;
+  }
+  #para23 {
+    font-family: Bookman, URW Bookman L, serif;
+    font-weight: 600;
+  }
+  #para24 {
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    font-weight: 600;
+  }
+  #para25{
+    font-family: "Playwrite NG Modern", cursive;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+}
+
+
